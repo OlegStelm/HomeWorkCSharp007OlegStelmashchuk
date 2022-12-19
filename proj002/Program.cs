@@ -76,5 +76,5 @@ if (FindIndex == 0)
 }
 else
 {
-    Console.WriteLine($"{array[ie, je]}");
+    Console.WriteLine($"Search index value - {array[ie, je]}");
 }
